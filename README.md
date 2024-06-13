@@ -11,25 +11,23 @@
 
 ### 新I卷
 
-#### 转义符版Prompt测试结果
-
-
-
 #### Latex版Prompt测试结果
 
+![](新I卷/latex测试/新I卷latex测试排行榜.png)
 
+#### 转义符版Prompt测试结果
+
+![](新I卷/转义符测试/新I卷转义符测试排行榜.png)
 
 ### 新II卷
 
-#### 转义符版Prompt测试结果
-
-
-
 #### Latex版Prompt测试结果
 
+![](新II卷/latex测试/新II卷latex测试排行榜.png)
 
+#### 转义符版Prompt测试结果
+![](新II卷/转义符测试/新II卷转义符测试排行榜.png)
 
 ## 测试集合
 
 后续会陆续开源，敬请期待。
-
