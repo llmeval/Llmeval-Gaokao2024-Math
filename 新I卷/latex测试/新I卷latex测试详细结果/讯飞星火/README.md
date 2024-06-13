@@ -133,5 +133,5 @@ D. 当点 $(x_0, y_0)$ 在 $C$ 上时，$y_0 \leq \frac{4}{(x_0 + 2)}$
 A C D A B B C B BC ACD ABD 3/2 ln2 1/2
 ## 模型答案
 
-A C D A B B C AB BC ABC ABD 3/2 2-ln(3/2) 2/3
-得分 52
+A C D A B B C AB BC AC ABD 3/2 2-ln(3/2) 2/3
+得分 56
